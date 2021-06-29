@@ -8,3 +8,4 @@
 - run ros_workspace.sh
 - run postgres and vscode sh
 - setup ssh
+- take snapshot
