@@ -10,5 +10,6 @@ source ~/.bashrc
 sudo apt install python3-rosdep python3-rosinstall python3-rosinstall-generator python3-wstool build-essential -y
 sudo rosdep init
 rosdep update
+sudo apt install ros-noetic-ros-tutorials -y
 sudo apt install ros-noetic-rqt ros-noetic-rqt-common-plugins ros-noetic-turtlesim -y
-sudo apt install openssh-server
+sudo apt install openssh-server -y
