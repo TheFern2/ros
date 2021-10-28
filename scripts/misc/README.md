@@ -12,3 +12,9 @@ add user to /etc/postgresql/13/main/pg_hba.conf PEER
 sudo service postgresql restart
 
 ```
+
+## lubuntu annoying update notifier
+
+```
+sudo apt remove ubuntu-update-notifier/focal
+```
